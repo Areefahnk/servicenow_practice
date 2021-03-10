@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 06:33:59</sys_created_on>
+        <sys_id>0bfdbb611b722010861adc6cdc4bcb3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_594706_studentsl_books.x_594706_studentsl.books_user</sys_name>
+        <sys_package display_value="studentslib" source="x_594706_studentsl">9e9b7ba91b322010861adc6cdc4bcb02</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</sys_scope>
+        <sys_security_acl display_value="x_594706_studentsl_books">cbfdbb611b722010861adc6cdc4bcb3b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0bfdbb611b722010861adc6cdc4bcb3f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 06:33:59</sys_updated_on>
+        <sys_user_role display_value="x_594706_studentsl.books_user" name="x_594706_studentsl.books_user">f2fdb3211b722010861adc6cdc4bcb4d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
