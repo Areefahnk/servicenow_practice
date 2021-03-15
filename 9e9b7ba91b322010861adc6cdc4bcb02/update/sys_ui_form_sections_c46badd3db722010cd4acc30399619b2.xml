@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c46badd3db722010cd4acc30399619b2" sys_domain="global" table="x_594706_studentsl_faculty" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:22:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d86badd3db722010cd4acc30399619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_594706_studentsl_faculty" name="x_594706_studentsl_faculty" sys_domain="global" view="Default view">c46badd3db722010cd4acc30399619b2</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_594706_studentsl_faculty" sys_domain="global" view="Default view">3c9f9ddbdb322010cd4acc3039961952</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 06:22:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:22:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc6bedd3db722010cd4acc3039961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_594706_studentsl_faculty" name="x_594706_studentsl_faculty" sys_domain="global" view="Default view">c46badd3db722010cd4acc30399619b2</sys_ui_form>
+            <sys_ui_section caption="Other Details" display_value="Other Details" name="x_594706_studentsl_faculty" sys_domain="global" view="Default view">446badd3db722010cd4acc30399619b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 06:22:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:24:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66bbe117db722010cd4acc3039961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_594706_studentsl_faculty" name="x_594706_studentsl_faculty" sys_domain="global" view="Default view">c46badd3db722010cd4acc30399619b2</sys_ui_form>
+            <sys_ui_section caption="HOD Details" display_value="HOD Details" name="x_594706_studentsl_faculty" sys_domain="global" view="Default view">a6bbe117db722010cd4acc3039961956</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 06:24:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_594706_studentsl_faculty</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:22:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c46badd3db722010cd4acc30399619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_594706_studentsl_faculty</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="studentslib" source="x_594706_studentsl">9e9b7ba91b322010861adc6cdc4bcb02</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c46badd3db722010cd4acc30399619b2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 06:22:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
