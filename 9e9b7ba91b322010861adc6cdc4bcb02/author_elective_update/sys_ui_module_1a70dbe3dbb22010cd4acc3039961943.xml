@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="faculty leaves">5e70dbe3dbb22010cd4acc3039961940</application>
+        <filter/>
+        <name>faculty leaves</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_594706_studentsl.faculty_leaves_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-16 08:22:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1a70dbe3dbb22010cd4acc3039961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>faculty leaves</sys_name>
+        <sys_package display_value="studentslib" source="x_594706_studentsl">9e9b7ba91b322010861adc6cdc4bcb02</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</sys_scope>
+        <sys_update_name>sys_ui_module_1a70dbe3dbb22010cd4acc3039961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-16 08:22:59</sys_updated_on>
+        <table>x_594706_studentsl_faculty_leaves</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</application>
+        <file_path/>
+        <instance_id>ac6e1fd3db38f7408aea21c4059619f4</instance_id>
+        <instance_name>dev82087</instance_name>
+        <name>sys_ui_module_1a70dbe3dbb22010cd4acc3039961943</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="faculty leaves">5e70dbe3dbb22010cd4acc3039961940</application><filter/><name>faculty leaves</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_594706_studentsl.faculty_leaves_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-16 08:22:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1a70dbe3dbb22010cd4acc3039961943</sys_id><sys_mod_count>0</sys_mod_count><sys_name>faculty leaves</sys_name><sys_package display_value="studentslib" source="x_594706_studentsl">9e9b7ba91b322010861adc6cdc4bcb02</sys_package><sys_policy/><sys_scope display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</sys_scope><sys_update_name>sys_ui_module_1a70dbe3dbb22010cd4acc3039961943</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-16 08:22:59</sys_updated_on><table>x_594706_studentsl_faculty_leaves</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1590193348</payload_hash>
+        <record_name>faculty leaves</record_name>
+        <reverted_from/>
+        <source>0b4584bddbb22010cd4acc3039961977</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-16 08:22:59</sys_created_on>
+        <sys_id>9270dbe3dbb22010cd4acc3039961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1783a218a180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-16 08:22:59</sys_updated_on>
+        <type>Module</type>
+        <update_guid>da70dbe369b220109ccdb3857e4ff545</update_guid>
+        <update_guid_history>da70dbe369b220109ccdb3857e4ff545:-1590193348</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-16 08:33:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>00dc3822303243f4822287a27df83dc1</sys_id>
+        <sys_metadata>1a70dbe3dbb22010cd4acc3039961943</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>faculty leaves</sys_name>
+        <sys_package display_value="studentslib" source="x_594706_studentsl">9e9b7ba91b322010861adc6cdc4bcb02</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</sys_scope>
+        <sys_scope_delete display_value="">028e896fcb3a42848158f548fe93fa39</sys_scope_delete>
+        <sys_update_name>sys_ui_module_1a70dbe3dbb22010cd4acc3039961943</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_1a70dbe3dbb22010cd4acc3039961943">9270dbe3dbb22010cd4acc3039961946</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-16 08:33:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

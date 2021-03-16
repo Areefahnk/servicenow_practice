@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_594706_studentsl_faculty_leaves</description>
+        <name>x_594706_studentsl_faculty_leaves</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-16 08:23:00</sys_created_on>
+        <sys_id>9670dbe3dbb22010cd4acc303996194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_594706_studentsl_faculty_leaves</sys_name>
+        <sys_package display_value="studentslib" source="x_594706_studentsl">9e9b7ba91b322010861adc6cdc4bcb02</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</sys_scope>
+        <sys_update_name>sys_security_acl_9670dbe3dbb22010cd4acc303996194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-16 08:23:00</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</application>
+        <file_path/>
+        <instance_id>ac6e1fd3db38f7408aea21c4059619f4</instance_id>
+        <instance_name>dev82087</instance_name>
+        <name>sys_security_acl_9670dbe3dbb22010cd4acc303996194e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_594706_studentsl_faculty_leaves</description><name>x_594706_studentsl_faculty_leaves</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-16 08:23:00</sys_created_on><sys_id>9670dbe3dbb22010cd4acc303996194e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_594706_studentsl_faculty_leaves</sys_name><sys_package display_value="studentslib" source="x_594706_studentsl">9e9b7ba91b322010861adc6cdc4bcb02</sys_package><sys_policy/><sys_scope display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</sys_scope><sys_update_name>sys_security_acl_9670dbe3dbb22010cd4acc303996194e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-16 08:23:00</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1750215681</payload_hash>
+        <record_name>x_594706_studentsl_faculty_leaves</record_name>
+        <reverted_from/>
+        <source>0b4584bddbb22010cd4acc3039961977</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-16 08:23:00</sys_created_on>
+        <sys_id>5e70dbe3dbb22010cd4acc3039961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1783a218b430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-16 08:23:00</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>9670dbe3cab22010d75264354e4ba250</update_guid>
+        <update_guid_history>9670dbe3cab22010d75264354e4ba250:-1750215681</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-16 08:32:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>2bc19122586d4c4c92c1d0ab93c606e9</sys_id>
+        <sys_metadata>9670dbe3dbb22010cd4acc303996194e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_594706_studentsl_faculty_leaves</sys_name>
+        <sys_package display_value="studentslib" source="x_594706_studentsl">9e9b7ba91b322010861adc6cdc4bcb02</sys_package>
+        <sys_parent display_value="">9e70dbe3dbb22010cd4acc303996195f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</sys_scope>
+        <sys_scope_delete display_value="">028e896fcb3a42848158f548fe93fa39</sys_scope_delete>
+        <sys_update_name>sys_security_acl_9670dbe3dbb22010cd4acc303996194e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_9670dbe3dbb22010cd4acc303996194e">5e70dbe3dbb22010cd4acc3039961950</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-16 08:32:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

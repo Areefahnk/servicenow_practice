@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="to_date" label="to date" language="en" table="x_594706_studentsl_faculty_leaves_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>to_date</element>
+            <help/>
+            <hint/>
+            <label>to date</label>
+            <language>en</language>
+            <name>x_594706_studentsl_faculty_leaves_table</name>
+            <plural>to dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 08:28:13</sys_created_on>
+            <sys_id>b2a15b27dbb22010cd4acc303996194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>to date</sys_name>
+            <sys_package display_value="studentslib" source="x_594706_studentsl">9e9b7ba91b322010861adc6cdc4bcb02</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</sys_scope>
+            <sys_update_name>sys_documentation_x_594706_studentsl_faculty_leaves_table_to_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 08:28:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

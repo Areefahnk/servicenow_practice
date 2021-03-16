@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="department" table="x_594706_studentsl_faculty_leaves_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <name>x_594706_studentsl_faculty_leaves_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 08:28:43</sys_created_on>
+            <sys_id>0ec11f27dbb22010cd4acc3039961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>department</sys_name>
+            <sys_package display_value="studentslib" source="x_594706_studentsl">9e9b7ba91b322010861adc6cdc4bcb02</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="studentslib">9e9b7ba91b322010861adc6cdc4bcb02</sys_scope>
+            <sys_update_name>sys_choice_x_594706_studentsl_faculty_leaves_table_department</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 08:28:43</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Civil</label>
+            <language>en</language>
+            <name>x_594706_studentsl_faculty_leaves_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 08:29:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cd19b27dbb22010cd4acc303996193a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 08:29:06</sys_updated_on>
+            <value>civil</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSE</label>
+            <language>en</language>
+            <name>x_594706_studentsl_faculty_leaves_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 08:28:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bfb19b27dbb22010cd4acc3039961938</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 08:28:48</sys_updated_on>
+            <value>cse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ECE</label>
+            <language>en</language>
+            <name>x_594706_studentsl_faculty_leaves_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 08:28:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ac11727dbb22010cd4acc3039961997</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 08:28:55</sys_updated_on>
+            <value>ece</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EEE</label>
+            <language>en</language>
+            <name>x_594706_studentsl_faculty_leaves_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 08:29:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5e11f27dbb22010cd4acc3039961961</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 08:29:32</sys_updated_on>
+            <value>eee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mech</label>
+            <language>en</language>
+            <name>x_594706_studentsl_faculty_leaves_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 08:29:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bed11f27dbb22010cd4acc303996190e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 08:29:23</sys_updated_on>
+            <value>mech</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
