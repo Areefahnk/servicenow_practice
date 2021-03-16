@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="faculty" max_length="40" name="x_594706_studentsl_faculty" type="collection">
+    <element label="faculty" max_length="40" name="x_594706_studentsl_faculty" sizeclass="4" type="collection">
         <element attributes="edge_encryption_enabled=true" label="contact" max_length="40" name="contact" type="phone_number_e164"/>
         <element label="date of birth" max_length="40" name="date_of_birth" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="department" mandatory="true" max_length="40" name="department" type="choice">

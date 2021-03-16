@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="studentinfo" max_length="40" name="x_594706_studentsl_studentinfo" type="collection">
+    <element label="studentinfo" max_length="40" name="x_594706_studentsl_studentinfo" sizeclass="0" type="collection">
         <element label="address" max_length="40" name="address" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="contact" max_length="40" name="contact" type="phone_number_e164"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Department" max_length="40" name="department" type="choice">
